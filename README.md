@@ -62,7 +62,7 @@ Found 2 unique env variables across 5 files:
 
 ────────────────────────────────────────────────────────────
 
-✅ Generated .env.example with 2 variables
+Generated .env.example with 2 variables
    /path/to/project/.env.example
 ```
 
